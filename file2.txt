@@ -1,0 +1,2 @@
+this if file2 with a .txt extension
+
